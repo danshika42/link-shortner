@@ -65,7 +65,7 @@ function App() {
 				<input
 					value={searchInput}
 					onChange={handleInput}
-					placeholder="enter url..."
+					placeholder="Enter url..."
 				/>
 
 				<button>Shorten</button>
